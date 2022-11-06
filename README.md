@@ -7,13 +7,13 @@
 
 ---
 
-  🗙 🗗 🗕 **About me** 🗕 🗗 🗙
+<h1 align="center"> About me 🗕 🗗 🗙</h3>
 
----
 #### 💼 Open to work.
-#### ⭐ I love reading, programming and the economy.
+#### ⭐ Programming (Frontend/Backend), economics and data science.
 #### 📚 I'am constantly learning and studying.
 #### 📃 Visit my website to see more -> JeroDev.com
+#### ❤️ I love to read.
 
 ---
 
