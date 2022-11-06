@@ -1,5 +1,5 @@
 ---
-                                                                                                                             🗕 🗗 🗙
+                                                                                                                             
 <p align="center" width="300">
    <img align="center" width="200" src="https://raw.githubusercontent.com/TheHakoDrako/TheHakoDrako/main/Images/me.png" />
    <h3 align="center">★ ¡Hello World! ★</h3>
