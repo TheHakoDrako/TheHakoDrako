@@ -7,8 +7,6 @@
 
 ---
 
-<h1 align="center"> About me 🗕 🗗 🗙</h3>
-
 #### 💼 Open to work.
 #### ⭐ Programming (Frontend/Backend), economics and data science.
 #### 📚 I'am constantly learning and studying.
