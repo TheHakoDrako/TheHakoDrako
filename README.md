@@ -9,6 +9,14 @@
 
   🗙 🗗 🗕 **About me** 🗕 🗗 🗙
 
+---
+#### 💼 Open to work.
+#### ⭐ I love reading, programming and the economy.
+#### 📚 I'am constantly learning and studying.
+#### 📃 Visit my website to see more -> JeroDev.com
+
+---
+
 <p align="center">
   <code><img height="30" alt="javascript" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="30" alt="typescript" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -18,10 +26,4 @@
   <code><img height="30" alt="java" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 </p>
   
----
-#### 💼 Open to work.
-#### ⭐ I love reading, programming and the economy.
-#### 📚 I'am constantly learning and studying.
-#### 📃 Visit my website to see more -> JeroDev.com
-
 ---
