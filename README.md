@@ -10,7 +10,7 @@
 #### 💼 Open to work.
 #### ⭐ Programming (Frontend/Backend), economics and data science.
 #### 📚 I'am constantly learning and studying.
-#### 📃 Visit my website to see more.
+#### 📃 Visit my website to see more. https://jerodev.ml
 #### ❤️ I love to read.
 
 ---
