@@ -28,6 +28,6 @@
   
 ---
 
-#### ✅ Languages and technologies: HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODEJS, PYTHON, JAVA, RSTUDIO.
+#### ✅ Languages and technologies: HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODEJS, PYTHON, DJANGO, JAVA, RSTUDIO.
 
 ---
