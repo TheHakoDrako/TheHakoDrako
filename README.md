@@ -26,6 +26,4 @@
   <code><img height="30" alt="Rstudio" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/Rst.png"></code>
 </p>
   
-  HTML / Javascript / Typescript / React / NodeJs / Python / Java / RStudio
-  
 ---
