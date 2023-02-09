@@ -9,7 +9,7 @@
 
 #### 💼 Open to work.
 #### ⭐ Programming, economics and data science.
-#### 📚 I'am constantly learning and studying, my main skill is **Python**.
+#### 📚 I'am constantly learning and studying, my main skill is ***Python***.
 #### 📃 Visit my website to see more. https://jerodev.ml
 #### ❤️ I love to read.
 
