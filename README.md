@@ -17,13 +17,21 @@
 
 <p align="center">
   <code><img height="30" alt="html" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/html.png"></code>
+  HTML
   <code><img height="30" alt="javascript" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/javascript.png"></code>
+  Javascript
   <code><img height="30" alt="typescript" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/typescript.png"></code>
+  Typescript
   <code><img height="30" alt="react" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/react.png"></code>
+  React
   <code><img height="30" alt="nodejs" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/node.png"></code>
-  <code><img height="30" alt="python" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/python.png"></code>
+  NodeJs
+  <code><img height="30" alt="python" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/python.png">
+  Python</code>
   <code><img height="30" alt="java" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/java.png"></code>
+  Java
   <code><img height="30" alt="Rstudio" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/Rst.png"></code>
 </p>
+  RStudio
   
 ---
