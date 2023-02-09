@@ -27,3 +27,7 @@
 </p>
   
 ---
+
+#### ☑ Languages and technologies: HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODEJS, PYTHON, JAVA, RSTUDIO.
+
+---
