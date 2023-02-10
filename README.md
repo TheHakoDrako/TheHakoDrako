@@ -29,5 +29,6 @@
 ---
 
 #### ✅ Languages and technologies: HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODEJS, PYTHON, DJANGO, JAVA, RSTUDIO.
+#### ✅ Libraries: Pandas, NumPy, Matplotlib, PlotlyExpress, Power Query, Visualización, Dashboards, DataStorytelling.
 
 ---
