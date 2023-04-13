@@ -20,7 +20,10 @@
   <code><img title="JAVASCRIPT" height="30" alt="javascript" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/javascript.png"></code>
   <code><img title="TYPESCRIPT" height="30" alt="typescript" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/typescript.png"></code>
   <code><img title="REACT" height="30" alt="react" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/react.png"></code>
+  <code><img title="GIT" height="30" alt="react" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/git.png"></code>
+  <code><img title="LARAVEL" height="30" alt="react" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/laravel.jpg"></code>
   <code><img title="NODEJS" height="30" alt="nodejs" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/node.png"></code>
+  <code><img title="MYSQL" height="30" alt="nodejs" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/mysql.png"></code>
   <code><img title="PYTHON" height="30" alt="python" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/python.png"></code>
   <code><img title="PHP" height="30" alt="python" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/PHP_logo.png"></code>
   <code><img title="JAVA" height="30" alt="java" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/java.png"></code>
@@ -29,7 +32,7 @@
   
 ---
 
-#### ✅ Languages and technologies: HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, LARAVEL, NODEJS, PYTHON, DJANGO, JAVA, RSTUDIO.
+#### ✅ Languages and technologies: HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, LARAVEL, NODEJS, PYTHON, DJANGO, JAVA, RSTUDIO, MYSQL.
 #### ✅ Libraries: Pandas, NumPy, Matplotlib, PlotlyExpress, Power Query, Visualización, Dashboards, DataStorytelling.
 
 ---
