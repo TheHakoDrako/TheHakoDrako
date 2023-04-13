@@ -22,6 +22,7 @@
   <code><img title="REACT" height="30" alt="react" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/react.png"></code>
   <code><img title="NODEJS" height="30" alt="nodejs" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/node.png"></code>
   <code><img title="PYTHON" height="30" alt="python" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/python.png"></code>
+  <code><img title="PHP" height="30" alt="python" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/PHP_logo.png"></code>
   <code><img title="JAVA" height="30" alt="java" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/java.png"></code>
   <code><img title="RSTUDIO" height="30" alt="Rstudio" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/thehakodrako.github.io/main/images/Rst.png"></code>
 </p>
