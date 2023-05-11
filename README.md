@@ -32,7 +32,7 @@
   
 ---
 
-#### ✅ Languages and technologies: HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, LARAVEL, NODEJS, PYTHON, DJANGO, JAVA, RSTUDIO, MYSQL.
+#### ✅ Languages and technologies: HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, LARAVEL, NODEJS, PYTHON, DJANGO, JAVA, RSTUDIO, MYSQL, VITE, BOOSTRAP.
 #### ✅ Libraries: Pandas, NumPy, Matplotlib, PlotlyExpress, Power Query, Visualización, Dashboards, DataStorytelling.
 
 ---
