@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <code><img title="HTML" height="30" alt="html" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/TheHakoDrako/main/images/html.png"></code>
+  <code><img title="HTML" height="80" alt="html" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/TheHakoDrako/main/images/html.png"></code>
   <code><img title="JAVASCRIPT" height="30" alt="javascript" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/TheHakoDrako/main/images/javascript.png"></code>
   <code><img title="VITE" height="30" alt="vite" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/TheHakoDrako/main/images/vite.png"></code>
   <code><img title="REACT" height="30" alt="react" HSPACE="12" VSPACE="12" src="https://raw.githubusercontent.com/TheHakoDrako/TheHakoDrako/main/images/react.png"></code>
