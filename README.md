@@ -10,7 +10,7 @@
 #### 💼 Open to work.
 #### ⭐ Full Stack Developer and economist.
 #### 📚 I'am constantly learning and studying, my main skill is Back-end.
-#### 📃 Visit my website to see more. http://jerodev.work.gd/
+#### 📃 Visit my website to see more. https://jerodev.work.gd/
 #### ❤️ I love to read.
 
 ---
