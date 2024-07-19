@@ -1,7 +1,7 @@
 ---
 <!-- Tittle -->                                                                                                        
 <p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/TheHakoDrako/TheHakoDrako/main/images/me.png" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/TheHakoDrako/TheHakoDrako/main/images/avatarJero.png" />
    <h3 align="center">★  ¡Hello World!  ★</h3>
 </p>
 
