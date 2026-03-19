@@ -7,7 +7,7 @@
 
 ---
 <!-- Description -->
-#### 💼 Open to work.
+#### 💼 Working and pursuing a master's degree in software development engineering.
 #### ⭐ Full Stack Developer and economist.
 #### 📚 I'am constantly learning and studying, my main skill is Python.
 #### 📃 Visit my website to see more. (https://jerodev.vercel.app/)
